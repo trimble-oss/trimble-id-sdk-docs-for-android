@@ -62,7 +62,7 @@ For more information, see [Authentication documentation](https://developer.trimb
 
 ## Raise an issue
 
-To provide feedback or report a bug, please [raise an issue on our issue tracker](https://github.com/trimble-oss/trimble-id-sdk-docs-for-android).
+To provide feedback or report a bug, please [raise an issue on our issue tracker](https://github.com/trimble-oss/trimble-id-sdk-docs-for-android/issues).
 
 ## <a name="support">Support</a>
 

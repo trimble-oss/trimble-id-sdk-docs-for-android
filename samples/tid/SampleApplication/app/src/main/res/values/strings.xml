@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TID Sample</string>
+    <string name="action_sign_in">Login in</string>
+    <string name="login_info">Welcome! \n Please login to continue</string>
+    <string name="logout">Logout</string>
+    <string name="userLoggedIn">User Logged In</string>
+    <string name="asset_statements" translatable="false">
+       [{
+            \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+            \"target\": {
+                \"namespace\": \"web\",
+                \"site\": \"stage.id.trimblecloud.com/.well-known/assetlinks.json\"}
+        }]</string>
+</resources>

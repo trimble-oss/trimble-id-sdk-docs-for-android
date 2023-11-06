@@ -1,0 +1,40 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:com.trimble.id.android.model////PointingToDeclaration/trimble-id-android/com.trimble.id.android.model/index.md
+$dokka.location:com.trimble.id.android.model/User///PointingToDeclaration/trimble-id-android/com.trimble.id.android.model/-user/index.md
+$dokka.location:com.trimble.id.android.model/User/User/#kotlin.String#kotlin.String#kotlin.String#kotlin.String?#kotlin.Boolean#kotlin.String/PointingToDeclaration/trimble-id-android/com.trimble.id.android.model/-user/-user.md
+$dokka.location:com.trimble.id.android.model/User/email/#/PointingToDeclaration/trimble-id-android/com.trimble.id.android.model/-user/email.md
+$dokka.location:com.trimble.id.android.model/User/emailVerified/#/PointingToDeclaration/trimble-id-android/com.trimble.id.android.model/-user/email-verified.md
+$dokka.location:com.trimble.id.android.model/User/familyName/#/PointingToDeclaration/trimble-id-android/com.trimble.id.android.model/-user/family-name.md
+$dokka.location:com.trimble.id.android.model/User/givenName/#/PointingToDeclaration/trimble-id-android/com.trimble.id.android.model/-user/given-name.md
+$dokka.location:com.trimble.id.android.model/User/picture/#/PointingToDeclaration/trimble-id-android/com.trimble.id.android.model/-user/picture.md
+$dokka.location:com.trimble.id.android.model/User/sub/#/PointingToDeclaration/trimble-id-android/com.trimble.id.android.model/-user/sub.md
+$dokka.location:com.trimble.id.android////PointingToDeclaration/trimble-id-android/com.trimble.id.android/index.md
+$dokka.location:com.trimble.id.android/Authenticator///PointingToDeclaration/trimble-id-android/com.trimble.id.android/-authenticator/index.md
+$dokka.location:com.trimble.id.android/Authenticator/Authenticator/#android.content.Context#kotlin.String#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-authenticator/-authenticator.md
+$dokka.location:com.trimble.id.android/Authenticator/getAccessToken/#/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-authenticator/get-access-token.md
+$dokka.location:com.trimble.id.android/Authenticator/getUserInfo/#/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-authenticator/get-user-info.md
+$dokka.location:com.trimble.id.android/Authenticator/isLoggedIn/#/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-authenticator/is-logged-in.md
+$dokka.location:com.trimble.id.android/Authenticator/login/#com.trimble.id.android.ILoginResponseCallback#kotlin.Boolean/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-authenticator/login.md
+$dokka.location:com.trimble.id.android/Authenticator/logout/#com.trimble.id.android.ILogoutResponseCallback/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-authenticator/logout.md
+$dokka.location:com.trimble.id.android/Authenticator/registerLoginLauncher/#androidx.appcompat.app.AppCompatActivity/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-authenticator/register-login-launcher.md
+$dokka.location:com.trimble.id.android/Authenticator/registerLogoutLauncher/#androidx.appcompat.app.AppCompatActivity/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-authenticator/register-logout-launcher.md
+$dokka.location:com.trimble.id.android/Authenticator/withManagedUser/#kotlin.String?/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-authenticator/with-managed-user.md
+$dokka.location:com.trimble.id.android/Authenticator/withPostLogoutRedirectUri/#kotlin.String/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-authenticator/with-post-logout-redirect-uri.md
+$dokka.location:com.trimble.id.android/IAuthenticator///PointingToDeclaration/trimble-id-android/com.trimble.id.android/-i-authenticator/index.md
+$dokka.location:com.trimble.id.android/IAuthenticator/getAccessToken/#/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-i-authenticator/get-access-token.md
+$dokka.location:com.trimble.id.android/IAuthenticator/getUserInfo/#/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-i-authenticator/get-user-info.md
+$dokka.location:com.trimble.id.android/IAuthenticator/isLoggedIn/#/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-i-authenticator/is-logged-in.md
+$dokka.location:com.trimble.id.android/IAuthenticator/login/#com.trimble.id.android.ILoginResponseCallback#kotlin.Boolean/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-i-authenticator/login.md
+$dokka.location:com.trimble.id.android/IAuthenticator/logout/#com.trimble.id.android.ILogoutResponseCallback/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-i-authenticator/logout.md
+$dokka.location:com.trimble.id.android/IAuthenticator/registerLoginLauncher/#androidx.appcompat.app.AppCompatActivity/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-i-authenticator/register-login-launcher.md
+$dokka.location:com.trimble.id.android/IAuthenticator/registerLogoutLauncher/#androidx.appcompat.app.AppCompatActivity/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-i-authenticator/register-logout-launcher.md
+$dokka.location:com.trimble.id.android/IAuthenticator/withManagedUser/#kotlin.String?/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-i-authenticator/with-managed-user.md
+$dokka.location:com.trimble.id.android/IAuthenticator/withPostLogoutRedirectUri/#kotlin.String/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-i-authenticator/with-post-logout-redirect-uri.md
+$dokka.location:com.trimble.id.android/ILoginResponseCallback///PointingToDeclaration/trimble-id-android/com.trimble.id.android/-i-login-response-callback/index.md
+$dokka.location:com.trimble.id.android/ILoginResponseCallback/onLoginCompleted/#kotlin.Result[kotlin.Boolean]/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-i-login-response-callback/on-login-completed.md
+$dokka.location:com.trimble.id.android/ILogoutResponseCallback///PointingToDeclaration/trimble-id-android/com.trimble.id.android/-i-logout-response-callback/index.md
+$dokka.location:com.trimble.id.android/ILogoutResponseCallback/onLogoutCompleted/#kotlin.Result[kotlin.Boolean]/PointingToDeclaration/trimble-id-android/com.trimble.id.android/-i-logout-response-callback/on-logout-completed.md
+com.trimble.id.android
+com.trimble.id.android.model
+

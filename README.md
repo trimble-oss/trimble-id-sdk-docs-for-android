@@ -4,7 +4,7 @@ Trimble Identity Android OAuth Library
 
 ## <a name="documentation">Documentation</a>
 
-- [Developer guide](https://github.com/trimble-oss/trimble-id-sdk-docs-for-android/blob/main/docs/DeveloperGuide.md) - Our Dev guide to work with authentication grant types and its providers.
+- [Developer guide](https://github.com/trimble-oss/trimble-id-sdk-docs-for-android/blob/main/docs/DeveloperGuide.md) - Android library developer guide documentation.
 - [Reference documentation](https://github.com/trimble-oss/trimble-id-sdk-docs-for-android/blob/main/docs/references/index.md) - Our code reference documentation generated from code comments.
 - [Samples](https://github.com/trimble-oss/trimble-id-sdk-docs-for-android/blob/main/samples) - a code guided sample for your reference.
 - [FAQs](https://github.com/trimble-oss/trimble-id-sdk-docs-for-android/blob/main/docs/FAQ.md) - frequently asked questions answering the most common questions.

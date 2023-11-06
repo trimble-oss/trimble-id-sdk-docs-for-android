@@ -8,13 +8,10 @@
 4. [Code snippets](#snippets)
    + [Configure Authenticator](#configure_authenticator)
    + [Performing Login](#perform_login)
-   + [Handling the redirect](#handle_redirect)
-   + [Persistence Storage](#persistant_storage)
-   + [Example: How to Login](#login) 
-   + [Example: How to Logout](#logout)
-   + [Example: How to get an access token](#access_token)
-   + [Example: How to know logged-in state](#loggedin_state)
-   + [Example: How to get logged-in user info](#user_info)
+   + [Retrieving an access token](#retrieve_access_token)
+   + [Retrieving User Info](#retrieve_user_info)
+   + [To know the current logged-in state](#know_current_state) 
+   + [Performing Logout](#perform_logout)
 4. [FAQ](#faq)
 
 ## <a name="overview">Overview</a> ##

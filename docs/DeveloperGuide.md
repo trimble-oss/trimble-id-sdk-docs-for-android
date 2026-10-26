@@ -42,7 +42,7 @@ manifestPlaceholders = ['appAuthRedirectScheme': applicationId]
 
 ### <a name="configure_authenticator">Configure Authenticator</a> ###
 
-Authenticator class helps to authenticate users by exposing functionalities like `Login`, `Logout`, `Retrieve Access Token`, `Retrieve User Information` and `Know a Logged in state`. It implements **IAuthenticator** interface. Redirect uri for login and logout needs to be constructed using the [Custom URI Scheme][1]. Once the user is authenticated , authorization state of the user is store in shared preference for easy persistance. Shared preference also gets updated when tokens are refreshed and gets cleared on logout.
+Authenticator class helps to authenticate users by exposing functionalities like `Login`, `Logout`, `Retrieve Access Token`, `Retrieve User Information` and `Know a Logged in state`. It implements **IAuthenticator** interface. Redirect uri for login and logout needs to be constructed using the [Custom URI Scheme][1]. Once the user is authenticated, authorization state of the user is stored in shared preference for easy persistence. Shared preference also gets updated when tokens are refreshed and gets cleared on logout.
 
 > **_NOTE:_** It is recommended to use single instance of **Authenticator** across the application.
 
@@ -64,7 +64,7 @@ Login method helps to authenticate the user. It discovers endpoints to interact 
 ```kotlin
 authenticator.registerLoginLauncher(context)
 ```
-The context passed in registerLoginLauncher needs to be of type `AppCompactActivity`.
+The context passed in registerLoginLauncher needs to be of type `AppCompatActivity`.
 
 When the user completes login, result is sent to the end application via **ILoginResponseCallback**. Here Result can be either true for successful login or false for any exception.
 
@@ -118,7 +118,7 @@ Logout method ends a logged in session. It also clears the shared preference. To
 ```kotlin
 authenticator.registerLogoutLauncher(context)
 ```
-The context passed in registerLogoutLauncher needs to be of type `AppCompactActivity`.
+The context passed in registerLogoutLauncher needs to be of type `AppCompatActivity`.
 
 When the user completes logout, result is sent to the end application via **ILogoutResponseCallback**. Here Result can be either true for successful logout or false for any exception.
 
